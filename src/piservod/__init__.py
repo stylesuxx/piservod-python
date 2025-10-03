@@ -1,1 +1,1 @@
-from Servo import Servo
+from piservod.Servo import Servo
